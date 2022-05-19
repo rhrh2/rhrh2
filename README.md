@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rhrh2
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 📫 How to reach me erzhenker@gmail.com
